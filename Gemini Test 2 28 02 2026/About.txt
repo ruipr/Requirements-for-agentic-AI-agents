@@ -1,1 +1,20 @@
 
+
+28 02 2026
+Test 2 Gemini
+
+
+Uses: Thinking
+
+Uses an improved Researcher prompt: "Researcher 1 impr.txt"
+
+Description of files:
+Prompts executed autonomously in sequence.
+"Answer1.docx" contains output to prompt in "Researcher 1 impr.txt"
+"Answer2.docx" contains output to 2nd prompt in "2nd3rd promptsSRL.txt"
+"Answer3.docx" contains output to 3rd prompt in "2nd3rd promptsSRL.txt"
+
+Description of folder "improving 1st prompt", contains 3 files:
+"prompt.txt" contains a prompt in NL to improve prompt written manually in "Researcher 1 definition.txt"
+"answer.docx" contains the output of the prompt in "prompt.txt", including the new prompt contained in "Researcher 1 impr.txt".
+
