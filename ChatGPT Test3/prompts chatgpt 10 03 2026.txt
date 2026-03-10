@@ -11,4 +11,5 @@ Include research papers as references for definitions.
 Include codecarbon information regarding electric energy consumption for this prompt and execution time.
 Produce pdf file for download with the complete answer to this prompt.
 
+Notes:
 
