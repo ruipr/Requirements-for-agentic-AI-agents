@@ -2,11 +2,13 @@
 
 10 03 2026
 
-Prompt ZS-1:
+Prompt ZS-1: (Zero-Shot Prompting)
 Make list of agentic ai's related concepts and their definitions. Include codecarbon information regarding electric energy consumption for this prompt and execution time.
 
-Prompt ConceptsCoT-1:
+Prompt ConceptsCoT-1: (Chain-of-Thought Prompting)
 Make list of agentic ai's related concepts and their definitions. 
 Include research papers as references for definitions.
 Include codecarbon information regarding electric energy consumption for this prompt and execution time.
 Produce pdf file for download with the complete answer to this prompt.
+
+
