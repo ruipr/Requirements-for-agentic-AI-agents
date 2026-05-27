@@ -1,0 +1,6 @@
+Este ficheiro apresenta um conjunto de boas práticas em agência de IA, relativas aos seus requisitos em contexto de desenvolvimento sustentável.
+Significa ter em atenção aos Requisitos de Qualidade, incluindo nestes a sustentabilidade, sem esquecer a sustentabilidade ambiental.
+Igualmente os Requisitos Funcionais são considerados, para que o produto de software seja concebido e implementado como desejado.
+
+
+
