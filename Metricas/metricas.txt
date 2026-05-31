@@ -1,0 +1,3 @@
+Neste ficheiro são expostas algumas métricas para agência de IA:
+
+
