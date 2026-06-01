@@ -1,6 +1,0 @@
-
-2nd
-With this SLR make a new report where you link prompt engineering to requirements engineering. Present prompt examples to each quality requirement. Present prompt examples to each non functional requirement.
-
-3rd
-For each of the previous examples provide bibliography in APA format.
