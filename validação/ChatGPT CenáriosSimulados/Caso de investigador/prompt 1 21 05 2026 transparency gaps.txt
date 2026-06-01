@@ -1,0 +1,41 @@
+
+
+Nome:
+Sistema multi agentes investigador.
+
+Descrição:
+Um conjunto de agentes investigadores séniores em agência de IA.
+
+Tema indicado:
+T1. as lacunas de investigação em transparência na agência de IA
+T2. gaps of research in transparency in AI agency
+
+Objetivo:
+Criar um sistema multi agente com o objetivo de investigar e criar relatório sobre o tema indicado.
+
+Requisitos:
+O relatório deve apresentar uma linguagem direta.
+O relatório deve apresentar secções distintas para cada linha de estudo identificada.
+
+Limites:
+Se a fonte não está integralmente acessível então utilizar apenas dados disponíveis.
+
+Agentes a incluir: 
+1. agente orquestrador; 
+2. agente que identifica bibliografia relevante; 
+3. agente que encontra linhas de estudo no tema indicado na bibliografia relevante;
+4. agente que redige o relatório; 
+5. agente que audita o relatório, verifica a sua qualidade e gera métrica de 0 a 10; 
+6. agente que melhora o relatório se o valor da métrica é inferior a 6. Realiza um teste e gera relatório deste sistema.
+
+
+Relatório de transparência (tarefas):
+T1. Apresentar as tarefas e ferramentas utilizadas;
+T2. Apresentar número de mensagens entre agentes;
+T3. Apresenta calculo da métrica do agente 5;
+T4. Redigir relatório de transparência com a informação em T1 e T2.
+
+Sustentabilidade ambiental (tarefas):
+S1. Calcula latência da prompt e consumo de eletricidade total e por agente, utilizando o codecarbon ou estimativa.
+S2. Apresenta relatório de sustentabilidade com os valores calculados (S1).
+

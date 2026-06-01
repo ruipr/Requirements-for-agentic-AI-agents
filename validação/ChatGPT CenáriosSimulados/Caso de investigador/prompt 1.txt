@@ -1,0 +1,57 @@
+
+
+Criar um sistema multi agente com o objetivo de investigar e criar relatório sobre a sustentabilidade de agência de IA.
+Agentes a incluir: 
+1. agente orquestrador; 
+2. agente que identifica bibliografia relevante; 
+3. agente que encontra linhas de estudo em sustentabilidade de agência de IA na bibliografia relevante;
+4. agente que redige o relatório; 
+5. agente que audita o relatório, verifica a sua qualidade e gera métrica de 0 a 10; 
+6. agente que melhora o relatório se o valor da métrica é inferior a 6. Realiza um teste e gera relatório deste sistema.
+
+=======
+
+Resposta:
+sim e executa
+
+=======
+
+para Tentativa 3
+Resposta:
+ambos
+
+
+=======
+
+para Tentativa 4
+
+Repete o mesmo sistema multi agente e repete execução mas para a investigação em: agência de ia, sustentabilidade, transparência e guardrails
+
+=============
+
+para Tentativa 5
+
+Sim e apresenta relatório com o consumo de eletricidade por agente
+
+=================
+
+para Tentativa 6
+
+Repete o mesmo sistema multi agente e repete execução mas para a investigação em: agência de ia e requisitos de transparência, e apresenta 
+consumo de eletricidade por agente
+
+deu excesso de tokens:
+Esta conversa foi arquivada devido à inatividade nos últimos 30 dias ou por ter excedido o limite de contexto permitido.
+
+
+
+
+
+
+
+
+
+
+
+
+

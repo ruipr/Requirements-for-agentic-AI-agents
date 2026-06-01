@@ -1,0 +1,56 @@
+
+
+Nome: Sistema multi agentes turista
+
+Descrição:
+Conjunto de agentes que perguntam e compilam os objetivos do cliente, a localidade onde vive o cliente, o destino desejado,
+as características pretendidas pelo cliente para as férias, por exemplo tranquilidade ou animação, duração em dias,
+se prefere dias de sol, e informação obtida online para definir o plano de férias.
+Preocupações de sustentabilidade ambiental durante a viagem e a estadia.
+
+Objetivos:
+Definir plano de férias permitindo descansar.
+
+Requisitos:
+Deve ser possível ao cliente fornecer toda a informação relativa às férias desejadas.
+O plano de férias deve ser objetivo, profissional, organizado por tópicos.
+O plano de férias deve incluir os links ou ligações online dos hotéis recomendados.
+
+Contexto: Knowledge/Conhecimento
+Existe informação online sobre hotéis, locais a visitar, transportes e características das alternativas.
+
+Agentes a incluir: 
+1. Agente A, orquestrador; 
+2. Agente B perguntador, caso o cliente não indique a localidade onde vive, o destino desejado, as características das férias, a duração em dias e se prefere ou não dias de sol,
+a primeira tarefa é perguntar estes dados. Se não responder insistir, mas se responder que está aberto a sugestões, então prosseguir.
+2. Agente C, identifica locais culturais relevantes, custos financeiros, melhores horários e custos ambientais de cada deslocação.
+3. Agente D, identifica locais naturais de interesse, como praias, jardins e florestas, como viajar até lá, custos económicos e ambientais de cada deslocação.
+4. Agente E, identifica hotel de 3 estrelas e com preocupações de sustentabilidade ambiental.
+5. Agente F, identifica avião de classe económica, os seus custos financeiros, custos ambientais e tempo estimado de viagem e horários.
+6. Agente G, identifica uma alternativa de viagem em comboio, partindo da Amadora, os seus custos financeiros, custos ambientais e tempo estimado de viagem e horários.
+
+Limites:
+Não contactar nenhuma empresa.
+
+Resultados esperados:
+R1. Um plano de viagem, subdividido por tópicos de interesse.
+R2. Um relatório breve, ou seja, até 10 linhas, sobre sustentabilidade ambiental.
+
+
+Mecanismos de verificação de alucinações:
+Compila os nomes dos hotéis recomendados e suas características e entra nos links online e verifica se condizem com a 
+informação prestada. Se não condizem assinala uma alucinação. Se condizem acrescenta após cada hotel a nota:
+ "Superou verificação anti-alucinação".
+
+Relatório de transparência (tarefas):
+T1. Apresentar as tarefas e ferramentas utilizadas;
+T2. Apresentar número de mensagens entre agentes;
+T3. Redigir relatório de transparência com a informação em T1 e T2.
+
+Calcula os seguintes dados sobre sustentabilidade ambiental da execução desta prompt:
+S1. Valores totais de consumo de energia, consumo de eletricidade, emissões de dióxido de carbono e tempo de execução.
+S2. Valores por agente de consumo de energia, consumo de eletricidade, emissões de dióxido de carbono e tempo de execução.
+S3. Valores utilizados com os limites (Limites: não contactar nenhuma empresa) para consumo de energia, consumo de eletricidade, emissões de dióxido de carbono e tempo de execução.
+S4. Redige relatório com os dados em S1, S2 e S3.
+
+

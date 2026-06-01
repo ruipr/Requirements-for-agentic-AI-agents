@@ -1,0 +1,11 @@
+com prompt 21 05 2026B
+
+Executa o sistema multi agente para estes dados: Amadora, destino Barcelona, tranquilas, 8 dias, dias de sol, 1, orçamento variável, julho, comboio, sem restrições
+
+
+=================================================
+
+
+
+
+
