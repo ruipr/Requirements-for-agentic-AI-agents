@@ -1,0 +1,6 @@
+Como citar:
+
+Carvalho, R., Silva, A. (2021). Sustainability Requirements of Digital Twin-Based Systems: A Meta Systematic Literature Review.
+  Appl. Sci. 2021, 11, 5519. https://doi.org/10.3390/app11125519.
+
+
