@@ -1,4 +1,9 @@
 Ficheiros nesta pasta:
-a)
+a) [Pasta workshop] Carvalho, R., Silva, A. (2020). Discussion Towards a Library of Software Sustainability Requirements. Workshop em RE2020. IEEE. Zurich, Suíça.
+
+b) [Pasta Digital] Carvalho, R., Silva, A. (2021). Sustainability Requirements of Digital Twin-Based Systems: A Meta Systematic Literature Review. Appl. Sci. 2021, 11, 5519. https://doi.org/10.3390/app11125519.
+
+c) [Pasta Evaluation] Carvalho, R., Silva, A. (2022). Towards the Evaluation of Software Products from an Environmental Sustainability Perspective. In R. A. Buchmann, G. C. Silaghi, D. Bufnea, V. Niculescu, G. Czibula, C. Barry, M. Lang, H. Linger, & C. Schneider (Eds.), Information Systems Development: Artificial Intelligence for Information Systems Development and Operations (ISD2022 Proceedings). Cluj-Napoca, Romania: Risoprint. ISBN: 978-973-53-2917-4. https://doi.org/10.62036/ISD.2022.55
+
 
 
