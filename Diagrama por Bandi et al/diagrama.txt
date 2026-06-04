@@ -1,0 +1,8 @@
+
+O diagrama de Venn apresentado por Bandi et al. (2025) ilustra as fundações conceptuais de agência de IA.
+
+Fonte:
+Bandi, A., Kongari, B., Naguru, R., Pasnoor, S., Vilipala, S. (2025). The Rise of Agentic AI: A Review of Definitions,
+Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges. Future Internet, 17, 404.
+  https://doi.org/10.3390/fi17090404
+
