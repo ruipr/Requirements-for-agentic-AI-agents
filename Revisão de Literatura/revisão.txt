@@ -11,6 +11,11 @@ Revisão de literatura em agência de IA e engenharia de requisitos;
 Revisão de literatura em agência de IA e sistemas baseados em agência de IA aplicados a determinados setores de atividade;
 Revisão de literatura em RdQ de governação, limites e transparência;
 
+Anexos com primeiras descrições incompletas de:
+Indicador de possível falha de segurança, utilizando dados de consumo de eletricidade;
+Biblioteca de prompts;
+Lista de boas práticas em agência de IA e sistemas baseados em agência de IA;
+
 
 
 
