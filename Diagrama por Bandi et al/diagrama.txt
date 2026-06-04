@@ -8,3 +8,6 @@ Frameworks, Architectures, Applications, Evaluation Metrics, and Challenges. Fut
   https://doi.org/10.3390/fi17090404
 
 Artigo em ficheiro: "the rise of agentic ai Bandi.pdf"
+
+No ficheiro também é relevante a Tabela 2 na qual é apresentada uma comparação entre SMA, Gen IA e agência de IA.
+
