@@ -1,2 +1,16 @@
-Nesta pasta surge uma primeira revisão de literatura em agência de IA, requisitos e desenvolvimento sustentável.
+Nesta pasta surge uma primeira revisão de literatura em agência de IA, sistemas baseados em agência de IA, requisitos e desenvolvimento sustentável.
+
+No ficheiro: "Proposta de Tese Correcção 27 05 2026.docx"
+
+Este ficheiro contém uma primeira versão da proposta de tese, a qual é estendida e incluí mais conteúdo que a versão final.
+
+Conteúdo:
+Conceitos e ferramentas;
+Revisão de literatura em agência de IA e desenvolvimento sustentável, como foto em sustentabilidade ambiental;
+Revisão de literatura em agência de IA e engenharia de requisitos;
+Revisão de literatura em agência de IA e sistemas baseados em agência de IA aplicados a determinados setores de atividade;
+Revisão de literatura em RdQ de governação, limites e transparência;
+
+
+
 
