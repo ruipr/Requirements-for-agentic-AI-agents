@@ -1,0 +1,8 @@
+Nesta pasta são apresentados alguns testes de validação.
+
+Na pasta SMAs encontram-se resultados de simulação e com agentes reais em SMAs.
+
+
+
+
+
