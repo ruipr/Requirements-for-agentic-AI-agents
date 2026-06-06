@@ -1,0 +1,20 @@
+
+==================================
+===    Testadas no ChatGPT     ===
+===                            ===
+===   Casos de uso simples     ===
+==================================
+
+
+
+A
+
+Ao estilo de ClaudeMonet, pinta uma floresta. 
+Utiliza como referência de cores a pintura Small Branch of the Seine, 1878.
+
+
+B
+
+Responde como perito. Concebe um circuito eletrónico que acende e apaga uma luz se deteta movimento.
+Desenha esquema eletrónico.
+

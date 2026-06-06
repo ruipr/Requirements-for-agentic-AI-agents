@@ -1,0 +1,52 @@
+
+
+A)
+No caso na pasta "prompts  imagem Hesíodo"
+[biblioteca de prompts D]
+
+Verificou-se, aparentemente, prompt regression,
+ou seja, os resultados após a 1a execução foram-se degradando.
+
+
+B)
+Nos casos na pasta "biblioteca de prompts D"
+Existe um conjunto de prompts que segue o padrão
+"Goal - Plan - Execute" que decompõe a complexidade em agentes autónomos.
+O equivalente a CoT (Chain-of-Thought) em IA Generativa [Schneider, j., 2025].
+
+
+C) 
+Nos casos na pasta "biblioteca de prompts D":
+"SMA Online 3 Casos"
+é incluído um agente orquestrador e além de um relatório de sustentabilidade,
+igualmente um relatório de transparência.
+
+A inclusão de um agente orquestrador, embora não o definindo em detalhe,
+remete para um padrão de Agent Orchestration, ou seja, o equivalente a prompt chaining em IA Generativa [Schneider, j., 2025].
+
+No ficheiro "exemplo agente orquestrador.txt" existe um exemplo de prompt a definir um agente orquestrador.
+
+Igualmente, a adição de limites, remete para o padrão de Guardrails and Constraints em agência de IA,
+ou seja, Constrained Prompting em IA Generativa [Schneider, j., 2025].
+
+
+D)
+Nos casos no ficheiro "biblioteca de prompts A":
+surguem questões muito direcionadas e não existem dados de treino de entrada e saída (input-output).
+Não existe treino implicado pela prompt mas existe uma resposta do modelo baseada em conhecimento pré-existente.
+
+Estes são possivelmente casos de padrão Zero-Shot Prompting [Sahoo, P. et al., 2025].
+
+==================================================================================================
+
+Referências:
+
+Schneider, J. (2025). Agentic AI Prompt Engineering: Advancing Generative AI Patterns Conceptually. 
+International Conference on Information Technology and Digital Applications (ICITDA), p. 8.
+
+
+Sahoo, P., Singh, A. K., Saha, S., Jain, V., Mondal, S., Chadha, A. (2025). 
+A systematic survey of prompt engineering in large language models: Techniques and applications.
+ arXiv preprint arXiv:2402.07927, 1.
+
+

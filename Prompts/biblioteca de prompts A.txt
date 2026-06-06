@@ -1,0 +1,48 @@
+
+==================================
+===    Testadas no ChatGPT     ===
+==================================
+
+
+A
+
+how to use codecarbon to evaluate crewai agents?
+
+B
+
+tool to evaluate security of crewai agents?
+
+C
+
+is it possible to evaluate environmental sustainability of security tools for agents?
+
+D
+
+how to improve crewai?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

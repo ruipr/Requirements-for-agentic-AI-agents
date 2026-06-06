@@ -1,0 +1,40 @@
+
+Índice de conteúdos da biblioteca
+
+
+(i) biblioteca de prompts A;
+
+Perguntas curtas.
+Esperam-se respostas muito diretas.
+
+
+(ii) biblioteca de prompts B;
+
+Prompts já indicando uma identidade.
+
+
+(iii) biblioteca de prompts C;
+
+Prompts de apoio na investigação.
+E prompt de melhoria na especificação de requisitos: "A improving 1st prompt"
+
+(iv) biblioteca de prompts D;
+
+Casos de uso principais, ou seja, férias, investimento, investigação.
+
+(v) biblioteca de prompts suporte;
+
+Prompts para melhorar outras prompts ou para ajudar na sua prepraração (meta-prompt).
+
+
+
+
+
+
+
+
+
+
+
+
+
