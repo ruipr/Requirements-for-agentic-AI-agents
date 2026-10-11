@@ -1,0 +1,37 @@
+
+
+Testes a 8 e 9 de Outubro 2026
+
+
+
+SMA Turismo
+Ordem do teste	Latência (em segundos)	Consumo eletricidade (em KWh)	Observações
+
+            Sem limpeza de memória
+1º	107,72	      +/- 0,5 	    LLM: gpt-4o-mini
+2º	107,16	      +/- 0,043 	  LLM: gpt-4o-mini
+3º	121,05	      +/- 0,75 	    LLM: gpt-4o-mini
+4º	58,95	        +/- 0,06	    LLM: gpt-4o 
+5º	48,87	        +/- 0,048	    LLM: gpt-4o 
+6º	80,70	        +/- 0,2	      LLM: gpt-4o-mini
+7º	84,10	        +/- 0,29	    LLM: gpt-4o-mini
+
+            Com limpeza de memória
+
+8º	70,45	        +/- 0,1	        LLM: gpt-4o-mini
+                                SMA com tarefa de limpeza acrescentada no chat de execução;
+
+9º	80,31	       +/- 0,085	      LLM: gpt-4o-mini
+                                SMA com tarefa de limpeza acrescentada no chat de execução;
+
+10º	60,08	      +/- 0,1	        LLM: gpt-4o-mini
+                                SMA refeito de raiz;
+                                Execução truncada por limites de créditos;
+
+
+Nota: a partir da 4ª execução, inclusive, começou a verificar-se limitação na execução.
+
+
+
+
+
