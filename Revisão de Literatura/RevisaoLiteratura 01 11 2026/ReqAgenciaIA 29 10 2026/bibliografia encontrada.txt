@@ -1,0 +1,56 @@
+
+Querie de 2023 a 2027
+agentic ai requirements engineering
+
+
+Arora, C., Vogelsang, A., & Sharma, A. (2026, October). Specifying the Delegated-Autonomy Boundary: Requirements Engineering for Agentic AI. In Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (pp. 4585-4589).
+
+
+
+Femmer, H., Esau, I. (2026). The Software Engineering Simulations Lab: Agentic AI for RE Quality Simulations. In: Guizzardi, R., Araújo, J. (eds) Requirements Engineering: Foundation for Software Quality. REFSQ 2026. Lecture Notes in Computer Science, vol 16497. Springer, Cham. https://doi.org/10.1007/978-3-032-21423-2_5
+
+
+
+Kawelke, J., Niebisch, T. (2026). Connecting Requirements Engineering to Agentic Development. In: AI-Driven Transformation - Practical Frameworks for Real-World Impact. Future of Business and Finance. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-662-72549-8_15
+
+
+
+
+======================================
+
+Query de 2023 a 2027
+allintitle: requirements agentic ai
+deu 17 resultados a 30 10 2026, mas nem todos são úteis
+Selecionei apenas 4
+
+
+
+Arora, C., Vogelsang, A., & Sharma, A. (2026, October). Specifying the Delegated-Autonomy Boundary: Requirements Engineering for Agentic AI. In Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering (pp. 4585-4589).
+
+
+Almohammadi, N., Bahsoon, R., & Chen, T. (2026). Regret Dominates Surprise: Design-Time Requirements Engineering for Agentic-AI Safety. arXiv preprint arXiv:2609.05692.
+
+
+Theodore, F. (2026, April). Applying Systems Engineering to Agentic AI: A multi-agent requirements engineering case study. In SETE 2026: Systems Engineering Test and Evaluation Conference 2026 (pp. 24-34). Sydney: Engineers Australia.
+
+
+?
+Jaradeh, M. Y., & Auer, S. (2025, October). Deep Research in the Era of Agentic AI: Requirements and Limitations for Scholarly Research. In Sci-K@ ISWC (pp. 149-157).
+
+Mitchell, R. J. (2026). When the Agent Is the Adversary: Architectural Requirements for Agentic AI Containment After the April 2026 Frontier Model Escape. arXiv preprint arXiv:2604.23425.
+
+
+Jackson, F. (2025). Designing a policy engine for agentic AI systems: From governance requirements to runtime enforcement. Available at SSRN 5904104.
+
+
+
+
+
+
+
+
+
+
+
+
+

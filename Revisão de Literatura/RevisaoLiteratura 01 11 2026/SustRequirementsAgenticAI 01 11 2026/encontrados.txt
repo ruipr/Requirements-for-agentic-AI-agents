@@ -1,0 +1,127 @@
+
+https://scholar.google.com/
+
+=============================================
+
+Querie 2024 a 2027
+allintitle: sustentability requirements agentic ai
+
+Encontrou 0
+
+======================================
+
+Querie 2024 a 2027
+allintitle: taxonomy sustentability agentic ai
+
+Encontrou 0
+
+================================================
+
+
+Querie 2024 a 2027
+software quality rescue
+
+Encontrou 1
+
+Dang, T. M. T. (2026). Proposal AI Application for Route Optimization and Testing Process Development to Improve the Quality in the Emergency Rescue System at FPT Software Central Vietnam Co., Ltd (Doctoral dissertation, Vietnam-Korea University of Information and Communication Technology).
+
+
+================================================
+
+Querie 2024 a 2027
+allintitle: taxonomy sustentability
+
+Encontrou 0
+
+=======================================================
+
+Querie 2024 a 2027
+taxonomy sustentability
+
+Encontrou 77 200
+
+Tettamanzi, P., Gotti Tedeschi, R., & Murgolo, M. (2024). The European Union (EU) green taxonomy: codifying sustainability to provide certainty to the markets. Environment, development and sustainability, 26(11), 27111-27136.
+
+
+taxonomy sustentability agentic ai
+
+Encontrou 23 400
+
+==================================================
+
+Querie 2024 a 2027
+requirements sustentability agentic ai
+
+Encontrou 16 400
+
+A)
+Maldonado-Romo, J., Bradley, R., Anthony, B., Juárez, L., Yoon, J., Amador, A., ... & Ponce, P. (2026). A collaborative and sustainable engineering design framework enabled by agentic AI. International Journal of Sustainable Engineering, 19(1), 2624166.
+
+B)
+Van Tam, N. (2026). Autonomy is not enough: why agentic AI in the built environment demands governance. Energy and Buildings, 117865.
+
+… agentic AI differs from conventional automation and why increasing agency fundamentally
+alters governance requirements … directly improve both sustainability and occupant wellbeing. …
+
+allintitle: requirements sustentability agentic ai
+Encontrou 0
+
+
+=======================================================
+
+Querie 2024 a 2027
+allintitle: sustainability agentic ai
+
+Encontrou 35
+
+A)
+Pospieszny, P., & Brodowicz, D. P. (2026). Toward Agentic Environments: GenAI and the Convergence of AI, Sustainability, and Human‐Centric Spaces. Sustainable Development, 34(3), 4054-4065.
+
+environmental impacts...
+ In such a context, this paper introduces the concept of agentic environments, a sustainability-oriented AI framework that goes beyond reactive systems by leveraging GenAI, multi-agent systems, and edge computing to minimize the negative impact of technology.
+
+B)
+
+Vineetha, B. (2026). Ethics-by-design and sustainability in scalable agentic AI for climate governance. International Journal of Computer Information Systems and Industrial Management Applications, 18, 235-242.
+
+dimensão ética da sustentabilidade ambiental
+
+C)
+Anand, S., & Mohamed, W. M. W. (2025). AI-Driven Environmental Stewardship: Agentic AI’s Role in Ecological Preservation and Sustainability. In The Power of Agentic AI: Redefining Human Life and Decision-Making: In Industry 6.0 (pp. 97-110). Cham: Springer Nature Switzerland.
+
+o facto de permitir encontrar soluções ambientalmente mais favoráveis, significa que pode ser 
+eventualmente utilizada para se melhorar a si própria nesse sentido
+
+D)
+Gosmar, D., & Dahl, D. A. (2026). Hallucination Mitigation with Agentic AI, Nested Learning, and AI Sustainability via Semantic Caching. arXiv preprint arXiv:2605.29055.
+
+fala de "AI sustainability"
+
+Semantic Caching
+https://semantic.io/glossary/semantic-caching
+
+Definition
+Semantic caching is an optimization technique for AI systems that caches responses based on the semantic meaning of queries rather than their exact text. When a new query arrives, the system checks whether a semantically similar query has been answered before — if the similarity score exceeds a threshold, the cached response is returned instead of invoking the expensive LLM or retrieval pipeline. This dramatically reduces latency and cost for AI applications with repetitive query patterns.
+
+Why it matters in 2026
+As enterprise AI deployments scale to millions of daily queries, the cost and latency of LLM inference has become a critical operational concern. Semantic caching can reduce LLM API costs by 40-70% in production systems with repetitive query patterns. It is now a standard component of enterprise AI infrastructure, implemented by platforms like Redis, Momento, and GPTCache.
+
+How it works
+Semantic caching works by embedding incoming queries and comparing them against a cache of previously embedded queries stored in a vector database. If the cosine similarity between the new query and a cached query exceeds a configurable threshold (typically 0.92-0.95), the cached response is returned. Cache entries include the original query embedding, the response, metadata about the source, and a TTL for freshness management.
+
+E)
+Li, W., Zheng, H., Thomas, R., & El-Askary, H. M. (2025). Water–Energy-Token Nexus: Emerging Sustainability Questions in the Age of Large Language Models and Agentic AI. AGU25.
+
+===============================================================
+
+
+
+Querie 2024 a 2027
+allintitle: agentic ai sustainability
+
+Encontrados 35 mas nem todos relacionados com a sustentabilidade de agência de IA
+
+
+
+
+
