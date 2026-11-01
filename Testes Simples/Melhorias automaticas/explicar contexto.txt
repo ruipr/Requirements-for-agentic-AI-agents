@@ -1,0 +1,17 @@
+
+
+Nestes testes tenta-se aferir:
+a) até que ponto a IA consegue melhorar a proposta de prompt
+com o propósito de melhorar a sua sustentabildiade ambiental;
+b) até que ponto a IA consegue justificar as ações tomadas, ou seja,
+indicar bibliografia de suporte.
+
+Pode ser importante pois poderá significar uma maior ou menor proximidade da
+fronteira de conhecimento neste tema. 
+
+
+
+
+
+
+
